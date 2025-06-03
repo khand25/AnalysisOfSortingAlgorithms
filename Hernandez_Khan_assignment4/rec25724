@@ -1,0 +1,32 @@
+Hernandez_Khan_assignment4:
+total 156
+drwxr-xr-x. 3 myid    33 Nov 10 15:46 bin
+-rw-r--r--. 1 myid 48890 Nov 10 15:01 ordered.txt
+-rw-r--r--. 1 myid 48890 Nov 10 15:00 random.txt
+-rw-r--r--. 1 myid  2382 Nov 12 15:03 Readme.txt
+-rw-r--r--. 1 myid     0 Nov 16 19:31 rec25724
+-rw-r--r--. 1 myid 48890 Nov 10 15:02 reverse.txt
+-rwxr--r--. 1 myid   157 Nov 10 16:57 run.sh
+-rwxr--r--. 1 myid   157 Nov 11 16:03 selectSizeDriver.sh
+drwxr-xr-x. 3 myid    33 Nov 10 15:03 src
+
+Hernandez_Khan_assignment4/bin:
+total 0
+drwxr-xr-x. 2 myid 78 Nov 11 15:55 assignment4
+
+Hernandez_Khan_assignment4/bin/assignment4:
+total 12
+-rw-r--r--. 1 myid 2849 Nov 13 12:09 SelectSizeDriver.class
+-rw-r--r--. 1 myid 3104 Nov 13 12:09 Sort.class
+-rw-r--r--. 1 myid 3071 Nov 12 14:37 SortDriver.class
+
+Hernandez_Khan_assignment4/src:
+total 0
+drwxr-xr-x. 2 myid 91 Nov 13 11:42 assignment4
+
+Hernandez_Khan_assignment4/src/assignment4:
+total 20
+-rw-r--r--. 1 myid  3420 Nov 12 15:09 SelectSizeDriver.java
+-rw-r--r--. 1 myid  3539 Nov 12 14:37 SortDriver.java
+-rw-r--r--. 1 myid 10610 Nov 13 11:42 Sort.java
+/home/myid/jmh86929/cs2720/Hernandez_Khan_assignment4:/home/myid/csci-2720a
